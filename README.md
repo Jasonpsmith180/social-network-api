@@ -6,6 +6,8 @@
 It seems that every website out there has some sort of social network to allow their users to interact with one another. So I built a flexible social network api that can be adapted to any site. The api allows a user to perform all of the CRUD routes for a user and thoughts (comments) as well as add/remove friends and reactions to thoughts. The site uses express for server capabilities, mongodb for the database, and mongoose as an ORM for mongodb.
 
 ## Video Demonstrations
+[Starting the Server](https://drive.google.com/file/d/1h-cncXnfw4H_MtakmVrbC0JyD_x9TTLG/view)
+
 [User and Friend Routes Demonstration](https://drive.google.com/file/d/1rcb4lYZnGw4bvKwcmOc44SYt9IjcjVRr/view)
 
 [Thought and Reaction Routes Demonstration](https://drive.google.com/file/d/1vR02NdQxADCX-viIMdqfMdNtlPFxfAjl/view)
